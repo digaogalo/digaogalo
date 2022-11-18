@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Rodrigo Carvalho a Front-end Developer 
 
 - 🔭 I’m currently working on personal projetct 
-- 🌱 I’m currently learning Javascript , React , Typescript
+- 🌱 I’m currently learning Javascript.
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/rodrigolc/
 
 <div align="center">
