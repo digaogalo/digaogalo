@@ -5,7 +5,7 @@
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/rodrigolc/
 
 <div align="center" width="100%">
-  <img width="65%" src="https://streak-stats.demolab.com/?user=digaogalo&theme=dracula" alt="digaogalo" />
+  
   <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=digaogalo&show_icons=true&locale=en&layout=compact&theme=dracula" alt="digaogalo" />  
   <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=digaogalo&show_icons=true&locale=en&theme=dracula" alt="digaogalo" />
 </div>
